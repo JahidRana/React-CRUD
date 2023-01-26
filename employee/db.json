@@ -1,0 +1,25 @@
+{
+  "employee": [
+    {
+      "name": "MD. JAHID RANA",
+      "email": "190153.cse@student.just.edu.bd",
+      "phone": "01739601888",
+      "active": true,
+      "id": 2
+    },
+    {
+      "name": "TOPSELLERHOUSE",
+      "email": "topsellerhouse@gmail.com",
+      "phone": "3162471049",
+      "active": false,
+      "id": 3
+    },
+    {
+      "name": "Benton A. Caprio",
+      "email": "shamaulhaque5487@gmail.com",
+      "phone": "01759810255",
+      "active": true,
+      "id": 4
+    }
+  ]
+}
